@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm abhi</h1>
 <h3 align="center">a curious engineering student, who is exploring this amazing realm of programming</h3>
 
-- 🔭 I’m currently working on [a Multiplayer game](https://www.linkedin.com/feed/update/urn:li:activity:7045657115247456256?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7045657115247456256%29)
+- 🔭 I’m currently working on [a Flutter Application](https://github.com/abhi3940/e_vahak)
 
-- 🌱 I’m currently learning **ChatGPT Prompt Engineering**
+- 🌱 I’m currently learning **Automated Testing in Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi3940?tab=repositories](https://github.com/abhi3940?tab=repositories)
 
